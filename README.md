@@ -3,4 +3,4 @@
 
 ### Day 1: Nov 3, 2020
 
-**Today's Progress**: Commited MNIST Digit Classification using Tensorflow and Keras
+**Today's Progress**: Commited MNIST Digit Classification using Tensorflow and Keras.
