@@ -22,8 +22,8 @@ It achieved 99.81% of accuracy with this CNN trained on a GPU, which took me abo
 
 ## Images
 
-![alt text](https://github.com/lakshaygoyal425/301DaysOfCode/MNIST-Digit-Classification/Images/Figure_1.png)
+![alt text](https://github.com/lakshaygoyal425/301DaysOfCode/blob/main/MNIST-Digit-Classification/Images/Figure_1.png)
 
-![alt text](https://github.com/lakshaygoyal425/301DaysOfCode/MNIST-Digit-Classification/Images/Figure_2.png)
+![alt text](https://github.com/lakshaygoyal425/301DaysOfCode/blob/main/MNIST-Digit-Classification/Images/Figure_2.png)
 
-![alt text](https://github.com/lakshaygoyal425/301DaysOfCode/MNIST-Digit-Classification/Images/download.png)
+![alt text](https://github.com/lakshaygoyal425/301DaysOfCode/blob/main/MNIST-Digit-Classification/Images/download.png)
