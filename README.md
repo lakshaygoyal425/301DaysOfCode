@@ -3,4 +3,5 @@
 
 ### Day 1: Nov 3, 2020
 
-**Today's Progress**: Commited MNIST Digit Classification using Tensorflow and Keras.
+**Today's Progress**: Commited MNIST Digit Classification using Tensorflow and Keras.<br>
+                      Link for the Repo. - https://github.com/lakshaygoyal425/301DaysOfCode/tree/main/MNIST-Digit-Classification 
