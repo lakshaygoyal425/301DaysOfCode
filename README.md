@@ -8,4 +8,4 @@
 
 ### Day 2: Nov 4, 2020
 
-**Today's Progress**: Working on Instagram Bot.<br>
+**Today's Progress**: Working on Instagram Bot using Python and Selenium.<br>
