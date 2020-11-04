@@ -9,3 +9,4 @@
 ### Day 2: Nov 4, 2020
 
 **Today's Progress**: Working on Instagram Bot using Python and Selenium.<br>
+                      Link for the Repo. - https://github.com/lakshaygoyal425/Instagram-Bot
