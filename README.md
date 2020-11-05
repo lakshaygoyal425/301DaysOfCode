@@ -15,3 +15,5 @@
 
 **Today's Progress**: Learning about Image Classification with Tensorflow Lite.<br>
                       Link: -https://www.tensorflow.org/lite/tutorials/model_maker_image_classification
+
+### Day 4: Nov 6, 2020
