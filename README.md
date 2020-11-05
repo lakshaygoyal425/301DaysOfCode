@@ -10,3 +10,7 @@
 
 **Today's Progress**: Working on Instagram Bot using Python and Selenium.<br>
                       Link for the Repo. - https://github.com/lakshaygoyal425/Instagram-Bot
+
+### Day 3: Nov 5, 2020
+
+**Today's Progress**: Learning about Image Classification with Tensorflow Lite.<br>
