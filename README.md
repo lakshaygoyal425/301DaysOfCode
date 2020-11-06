@@ -17,3 +17,6 @@
                       Link: -https://www.tensorflow.org/lite/tutorials/model_maker_image_classification
 
 ### Day 4: Nov 6, 2020
+
+**Today's Progress**: HackerRank Certficate: Cleared the Assesmemnt for the skill Java.<br>
+                      Link: -https://www.hackerrank.com/certificates/733f128a50cc
