@@ -24,3 +24,5 @@
 ### Day 5: Nov 7, 2020
 
 **Today's Progress**: Working on GUI making for the InstaBot
+                      Trying to make Starbuzz android app
+                      
