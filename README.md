@@ -32,4 +32,4 @@
 
 ### Day 7: Nov 9, 2020
 
-**Today's Progress**: Learning about Advance Facial Recognition System 
+**Today's Progress**: Learning about Advance Facial Recognition System using Python and OpenCV
