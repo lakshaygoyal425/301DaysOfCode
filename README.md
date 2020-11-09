@@ -29,3 +29,7 @@
 
 **Today's Progress**: Trying to make Starbuzz android app<br>
                       Link: -https://github.com/lakshaygoyal425/Android-Studio/tree/master/Starbuzz
+
+### Day 7: Nov 9, 2020
+
+**Today's Progress**:
