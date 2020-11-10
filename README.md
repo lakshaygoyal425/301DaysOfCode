@@ -36,4 +36,4 @@
 
 ### Day 8: Nov 10, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Working on Shortest Path Algorithms in C
