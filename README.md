@@ -37,3 +37,8 @@
 ### Day 8: Nov 10, 2020
 
 **Today's Progress**: Working on Shortest Path Algorithms in C for Minor Project
+
+### Day 9: Nov 11, 2020
+
+**Today's Progress**: Learning and Implementing Stack Data Structure in C<br>
+                      Link: -https://github.com/lakshaygoyal425/Data-Structure-C
