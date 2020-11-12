@@ -45,4 +45,4 @@
 
 ### Day 10: Nov 12, 2020
 
-**Today's Progress**:
+**Today's Progress**: Implementing Single Linked List Data Structure in C<br>
