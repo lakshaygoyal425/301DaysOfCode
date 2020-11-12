@@ -42,3 +42,7 @@
 
 **Today's Progress**: Learning and Implementing Stack Data Structure in C<br>
                       Link: -https://github.com/lakshaygoyal425/Data-Structure-C
+
+### Day 10: Nov 12, 2020
+
+**Today's Progress**:
