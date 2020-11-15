@@ -45,4 +45,9 @@
 
 ### Day 10 & 11: Nov 12-13, 2020
 
-**Today's Progress**: Implementing Single Linked List Data Structure in C<br><br>
+**Today's Progress**: Studying about Linked List Data Structure in C<br>
+
+### Day 12: Nov 14-15, 2020
+
+**Today's Progress**: Implementing and Inserting Data in Single Linked List Data Structure in C<br>
+
