@@ -47,7 +47,11 @@
 
 **Today's Progress**: Studying about Linked List Data Structure in C<br>
 
-### Day 12: Nov 14-15, 2020
+### Day 12 & 13: Nov 14-15, 2020
 
 **Today's Progress**: Implementing and Inserting Data in Single Linked List Data Structure in C<br>
                       Link: -https://github.com/lakshaygoyal425/Data-Structure-C/tree/main/Single%20Linked%20List
+
+### Day 14: Nov 11, 2020
+
+**Today's Progress**:  
