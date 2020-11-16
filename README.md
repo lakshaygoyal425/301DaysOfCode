@@ -52,6 +52,6 @@
 **Today's Progress**: Implementing and Inserting Data in Single Linked List Data Structure in C<br>
                       Link: -https://github.com/lakshaygoyal425/Data-Structure-C/tree/main/Single%20Linked%20List
 
-### Day 14: Nov 11, 2020
+### Day 14: Nov 16, 2020
 
 **Today's Progress**:  
