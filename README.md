@@ -54,4 +54,4 @@
 
 ### Day 14: Nov 16, 2020
 
-**Today's Progress**:  
+**Today's Progress**: Completed three Google Cloud Quiklabs.
