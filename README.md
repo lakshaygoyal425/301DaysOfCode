@@ -60,3 +60,8 @@
 
 **Today's Progress**: Implementing and Deleting Data in Single Linked List Data Structure in C<br>
                       Link: -https://github.com/lakshaygoyal425/Data-Structure-C/tree/main/Single%20Linked%20List
+
+
+### Day 16: Nov 18, 2020
+
+**Today's Progress**: Read about Cuda and Cudnn for Deep Learning
