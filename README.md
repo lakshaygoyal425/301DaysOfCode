@@ -66,6 +66,6 @@
 
 **Today's Progress**: Read about Cuda and Cudnn for Deep Learning
 
-### Day 16: Nov 18, 2020
+### Day 17: Nov 19, 2020
 
 **Today's Progress**: Installing and Started Flutter
