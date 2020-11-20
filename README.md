@@ -69,3 +69,8 @@
 ### Day 17: Nov 19, 2020
 
 **Today's Progress**: Installing and Started Flutter
+
+
+### Day 18: Nov 20, 2020
+
+**Today's Progress**: Started with Flutter basics 
