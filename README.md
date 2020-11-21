@@ -74,3 +74,7 @@
 ### Day 18: Nov 20, 2020
 
 **Today's Progress**: Started with Flutter basics 
+
+### Day 19: Nov 21, 2020
+
+**Today's Progress**: Done with Dart language basics for Flutter.
