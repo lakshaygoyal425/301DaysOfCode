@@ -78,3 +78,8 @@
 ### Day 19: Nov 21, 2020
 
 **Today's Progress**: Done with Dart language basics for Flutter.
+
+
+### Day 20: Nov 22, 2020
+
+**Today's Progress**: Completed Floyd Warshal Algorithm for Minor Project 
