@@ -83,3 +83,7 @@
 ### Day 20: Nov 22, 2020
 
 **Today's Progress**: Completed Floyd Warshal Algorithm for Minor Project 
+
+### Day 21: Nov 23, 2020
+
+**Today's Progress**: Started DS Algorithmic Questions in C 
