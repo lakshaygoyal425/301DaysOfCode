@@ -87,3 +87,9 @@
 ### Day 21: Nov 23, 2020
 
 **Today's Progress**: Started DS Algorithmic Questions in C 
+
+### Day 22: Nov 24, 2020
+
+**Today's Progress**: Revise some concepts of Deep Learning
+
+
