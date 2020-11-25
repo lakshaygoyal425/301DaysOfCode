@@ -92,4 +92,6 @@
 
 **Today's Progress**: Revise some concepts of Deep Learning
 
+### Day 23: Nov 25, 2020
 
+**Today's Progress**: Started Compiler Design for End Sems
