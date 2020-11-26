@@ -98,4 +98,4 @@
 
 ### Day 24: Nov 26, 2020
 
-**Today's Progress**: Learnied about how compilers are work
+**Today's Progress**: Learned about how compilers are work
