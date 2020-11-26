@@ -95,3 +95,7 @@
 ### Day 23: Nov 25, 2020
 
 **Today's Progress**: Started Compiler Design for End Sems
+
+### Day 24: Nov 26, 2020
+
+**Today's Progress**: Learnied about how compilers are work
