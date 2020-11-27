@@ -99,3 +99,7 @@
 ### Day 24: Nov 26, 2020
 
 **Today's Progress**: Learned about how compilers are work
+
+### Day 25: Nov 27, 2020
+
+**Today's Progress**: Studied about different analyzers in working of compiler.
