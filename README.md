@@ -102,4 +102,4 @@
 
 ### Day 25: Nov 27, 2020
 
-**Today's Progress**: Studied about different analyzers in working of compiler.
+**Today's Progress**: Studied about different analyzers in working of compiler.<br>
