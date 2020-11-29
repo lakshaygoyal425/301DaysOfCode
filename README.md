@@ -110,4 +110,4 @@
 
 ### Day 27: Nov 29, 2020
 
-**Today's Progress**: Learned about LL parsing in compiler Design 
+**Today's Progress**: Learned about LL parsing in Compiler Design 
