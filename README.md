@@ -107,3 +107,7 @@
 ### Day 26: Nov 28, 2020
 
 **Today's Progress**: Studied about Different UML diagrams in Object Oriented Analysis & Design
+
+### Day 27: Nov 29, 2020
+
+**Today's Progress**: Learned about LL parsing in compiler Design 
