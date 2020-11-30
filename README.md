@@ -114,5 +114,5 @@
 
 ### Day 28: Nov 30, 2020
 
-**Today's Progress**: Made the Starbuzz App in Android Studio
+**Today's Progress**: Made the Starbuzz App in Android Studio<br>
                       Link: -https://github.com/lakshaygoyal425/Android-Studio/tree/master/Starbuzz
