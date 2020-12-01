@@ -116,3 +116,7 @@
 
 **Today's Progress**: Made the Starbuzz App in Android Studio<br>
                       Link: -https://github.com/lakshaygoyal425/Android-Studio/tree/master/Starbuzz
+
+### Day 29: Dec 1, 2020
+
+**Today's Progress**: Made various BPMN Diagrams
