@@ -124,3 +124,7 @@
 ### Day 30: Dec 2, 2020
 
 **Today's Progress**: Studied about steps to design Production Parsers in Compiler Design
+
+### Day 31: Dec 3, 2020
+
+**Today's Progress**: Made UML Diagrams in StarUML
