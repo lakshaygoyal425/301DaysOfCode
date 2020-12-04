@@ -128,3 +128,7 @@
 ### Day 31: Dec 3, 2020
 
 **Today's Progress**: Made UML Diagrams in StarUML
+
+### Day 32: Dec 4, 2020
+
+**Today's Progress**: Prep for Computer Graphics Viva
