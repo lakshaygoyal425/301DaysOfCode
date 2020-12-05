@@ -132,3 +132,7 @@
 ### Day 32: Dec 4, 2020
 
 **Today's Progress**: Prep for Computer Graphics Viva
+
+### Day 33: Dec 5, 2020
+
+**Today's Progress**: Revise concepts of OpenCV
