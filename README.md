@@ -136,3 +136,7 @@
 ### Day 33: Dec 5, 2020
 
 **Today's Progress**: Revise concepts of OpenCV
+
+### Day 34: Dec 6, 2020
+
+**Today's Progress**: Made Android App through Java
