@@ -140,3 +140,7 @@
 ### Day 34: Dec 6, 2020
 
 **Today's Progress**: Made Android App through Java
+
+### Day 35: Dec 7, 2020
+
+**Today's Progress**: Done Computer Graphics Experiment
