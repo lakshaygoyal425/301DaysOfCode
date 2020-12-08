@@ -144,3 +144,7 @@
 ### Day 35: Dec 7, 2020
 
 **Today's Progress**: Done Computer Graphics Experiment
+
+### Day 36: Dec 8, 2020
+
+**Today's Progress**: 
