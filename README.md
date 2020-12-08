@@ -147,4 +147,4 @@
 
 ### Day 36: Dec 8, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Try to make basic app thorugh flutter
