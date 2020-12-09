@@ -148,3 +148,7 @@
 ### Day 36: Dec 8, 2020
 
 **Today's Progress**: Try to make basic app thorugh flutter
+
+### Day 37: Dec 9, 2020
+
+**Today's Progress**: Made Floyd Warshall algorithm for Minor Project in C
