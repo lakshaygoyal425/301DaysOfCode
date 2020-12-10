@@ -152,3 +152,7 @@
 ### Day 37: Dec 9, 2020
 
 **Today's Progress**: Made Floyd Warshall algorithm for Minor Project in C
+
+### Day 38: Dec 10, 2020
+
+**Today's Progress**: Made Bellman Ford algorithm for Minor Project in C
