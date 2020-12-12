@@ -157,6 +157,6 @@
 
 **Today's Progress**: Made Bellman Ford algorithm for Minor Project in C
 
-### Day 38: Dec 10, 2020
+### Day 39: Dec 11, 2020
 
 **Today's Progress**: Made Dijkastra algorithm for Minor Project in C
