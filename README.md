@@ -165,3 +165,7 @@
 
 **Today's Progress**: Completed Minor Project (Implementation and Comparison of Various Shortest Path Algorithms)
 
+### Day 41: Dec 13, 2020
+
+**Today's Progress**: Learned Various OOAD Diagrams
+
