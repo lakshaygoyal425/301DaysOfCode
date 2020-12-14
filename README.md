@@ -169,3 +169,6 @@
 
 **Today's Progress**: Learned Various OOAD Diagrams
 
+### Day 42: Dec 14, 2020
+
+**Today's Progress**:  
