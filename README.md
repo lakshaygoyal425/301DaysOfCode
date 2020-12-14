@@ -171,4 +171,4 @@
 
 ### Day 42: Dec 14, 2020
 
-**Today's Progress**:  
+**Today's Progress**:  Learned about Modularization in OOAD
