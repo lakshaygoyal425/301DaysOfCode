@@ -171,11 +171,11 @@
 
 ### Day 42: Dec 14, 2020
 
-**Today's Progress**:  Learned about Modularization in OOAD
+**Today's Progress**: Learned about Modularization in OOAD
 
 ### Day 43: Dec 15, 2020
 
-**Today's Progress**:  
+**Today's Progress**: Learned Various Algorithms in Computer Graphics  
 
 ### Day 44: Dec 16, 2020
 
