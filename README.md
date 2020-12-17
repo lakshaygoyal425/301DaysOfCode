@@ -180,3 +180,7 @@
 ### Day 44: Dec 16, 2020
 
 **Today's Progress**: Solved Various numericals of Computer Graphics
+
+### Day 45: Dec 17, 2020
+
+**Today's Progress**: Finally Completed Computer Graphics Exam
