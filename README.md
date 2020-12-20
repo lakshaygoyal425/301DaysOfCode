@@ -195,4 +195,4 @@
 
 ### Day 48: Dec 20, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Gone through the OGI ppts
