@@ -185,7 +185,7 @@
 
 **Today's Progress**: Finally Completed Computer Graphics Exam
 
-### Day 45: Dec 17, 2020
+### Day 46: Dec 18, 2020
 
 **Today's Progress**: Done Revision of Compiler Design
 
