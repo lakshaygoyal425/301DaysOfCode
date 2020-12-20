@@ -192,3 +192,7 @@
 ### Day 47: Dec 19, 2020
 
 **Today's Progress**: Finally Completed Compiler Design Exam
+
+### Day 48: Dec 20, 2020
+
+**Today's Progress**: 
