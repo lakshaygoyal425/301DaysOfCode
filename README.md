@@ -196,3 +196,7 @@
 ### Day 48: Dec 20, 2020
 
 **Today's Progress**: Gone through the OGI ppts
+
+### Day 49 Dec 21, 2020
+
+**Today's Progress**: Revising HTML concepts.
