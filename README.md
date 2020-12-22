@@ -200,3 +200,8 @@
 ### Day 49 Dec 21, 2020
 
 **Today's Progress**: Revising HTML concepts.
+
+
+### Day 50 Dec 22, 2020
+
+**Today's Progress**: Started MongoDB 
