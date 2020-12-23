@@ -201,7 +201,10 @@
 
 **Today's Progress**: Revising HTML concepts.
 
-
 ### Day 50 Dec 22, 2020
 
 **Today's Progress**: Started MongoDB 
+
+### Day 51 Dec 23, 2020
+
+**Today's Progress**: Learned about Importing, Exporting and Querying Data in MongoDB
