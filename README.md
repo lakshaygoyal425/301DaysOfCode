@@ -208,3 +208,8 @@
 ### Day 51 Dec 23, 2020
 
 **Today's Progress**: Learned about Importing, Exporting and Querying Data in MongoDB
+
+
+### Day 51 Dec 23, 2020
+
+**Today's Progress**: Learned about Inserting/Updating/Deleting Document in MongoDB
