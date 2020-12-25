@@ -209,7 +209,10 @@
 
 **Today's Progress**: Learned about Importing, Exporting and Querying Data in MongoDB
 
-
-### Day 51 Dec 23, 2020
+### Day 52 Dec 24, 2020
 
 **Today's Progress**: Learned about Inserting/Updating/Deleting Document in MongoDB
+
+### Day 53 Dec 25, 2020
+
+**Today's Progress**: Learned about Comparison adn Logical Operators in MongoDB
