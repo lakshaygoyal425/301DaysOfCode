@@ -161,7 +161,7 @@
 
 **Today's Progress**: Made Dijkastra algorithm for Minor Project in C
 
-## Day 40: Dec 12, 2020
+### Day 40: Dec 12, 2020
 
 **Today's Progress**: Completed Minor Project (Implementation and Comparison of Various Shortest Path Algorithms)
 
