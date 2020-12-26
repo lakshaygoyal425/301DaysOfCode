@@ -215,4 +215,8 @@
 
 ### Day 53 Dec 25, 2020
 
-**Today's Progress**: Learned about Comparison adn Logical Operators in MongoDB
+**Today's Progress**: Learned about Comparison and Logical Operators in MongoDB
+
+### Day 54 Dec 26, 2020
+
+**Today's Progress**: Learned about  in MongoDB
