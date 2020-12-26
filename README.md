@@ -219,4 +219,4 @@
 
 ### Day 54 Dec 26, 2020
 
-**Today's Progress**: Learned about  in MongoDB
+**Today's Progress**: Learned about Aggregation Framework in MongoDB
