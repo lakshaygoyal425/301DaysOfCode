@@ -221,3 +221,7 @@
 
 **Today's Progress**: Learned about Aggregation Framework in MongoDB
 
+
+### Day 55 Dec 27, 2020
+
+**Today's Progress**: Completed MongoDB Basics
