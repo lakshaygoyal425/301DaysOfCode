@@ -224,3 +224,7 @@
 ### Day 55 Dec 27, 2020
 
 **Today's Progress**: Completed MongoDB Basics
+
+### Day 56 Dec 28, 2020
+
+**Today's Progress**: Started MongoDB for Python Developers Course
