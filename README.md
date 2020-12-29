@@ -228,3 +228,7 @@
 ### Day 56 Dec 28, 2020
 
 **Today's Progress**: Started MongoDB for Python Developers Course
+
+### Day 57 Dec 29, 2020
+
+**Today's Progress**: Working on Login Page
