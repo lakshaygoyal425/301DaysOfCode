@@ -232,3 +232,7 @@
 ### Day 57 Dec 29, 2020
 
 **Today's Progress**: Working on Login Page
+
+### Day 58: Dec 30, 2020
+
+**Today's Progress**: Finally Completed Android Application Exam
