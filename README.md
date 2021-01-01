@@ -236,3 +236,11 @@
 ### Day 58: Dec 30, 2020
 
 **Today's Progress**: Finally Completed Android Application Exam
+
+### Day 59: Dec 31, 2020
+
+**Today's Progress**: Revise few concepts of array
+
+### Day 60: Jan 1, 2021
+
+**Today's Progress**: 
