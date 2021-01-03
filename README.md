@@ -243,4 +243,4 @@
 
 ### Day 60: Jan 1, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Solved Few Array Questions
