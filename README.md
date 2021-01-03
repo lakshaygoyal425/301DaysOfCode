@@ -248,3 +248,7 @@
 ### Day 61: Jan 2, 2021
 
 **Today's Progress**: Given Apex Edge Exam
+
+### Day 62: Jan 3, 2021
+
+**Today's Progress**: Solved
