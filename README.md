@@ -244,3 +244,7 @@
 ### Day 60: Jan 1, 2021
 
 **Today's Progress**: Solved Few Array Questions
+
+### Day 61: Jan 2, 2021
+
+**Today's Progress**: Given Apex Edge Exam
