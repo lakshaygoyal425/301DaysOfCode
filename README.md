@@ -251,4 +251,8 @@
 
 ### Day 62: Jan 3, 2021
 
-**Today's Progress**: Solved
+**Today's Progress**: Started R language
+
+### Day 63: Jan 4, 2021
+
+**Today's Progress**: Learned about various 
