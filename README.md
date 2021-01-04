@@ -255,4 +255,4 @@
 
 ### Day 63: Jan 4, 2021
 
-**Today's Progress**: Learned about various 
+**Today's Progress**: Learned about various Data Types and Operators in R
