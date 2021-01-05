@@ -259,4 +259,4 @@
 
 ### Day 64: Jan 5, 2021
 
-**Today's Progress**: Learned about R Data Structures
+**Today's Progress**: Learned about R Data Structures(Vectors, Array's, Factors, etc)
