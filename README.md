@@ -256,3 +256,7 @@
 ### Day 63: Jan 4, 2021
 
 **Today's Progress**: Learned about various Data Types and Operators in R
+
+### Day 64: Jan 5, 2021
+
+**Today's Progress**: Learned about R Data Structures
