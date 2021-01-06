@@ -262,3 +262,7 @@
 ### Day 64: Jan 5, 2021
 
 **Today's Progress**: Learned about R Data Structures(Vectors, Array's, Factors, etc)
+
+### Day 65: Jan 6, 2021
+
+**Today's Progress**: Revised concepts of Numpy and Pandas 
