@@ -266,3 +266,7 @@
 ### Day 65: Jan 6, 2021
 
 **Today's Progress**: Revised concepts of Numpy and Pandas 
+
+### Day 66: Jan 7, 2021
+
+**Today's Progress**: Started and Made First Basic GUI in Kivy 
