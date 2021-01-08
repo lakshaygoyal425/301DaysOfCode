@@ -270,3 +270,7 @@
 ### Day 66: Jan 7, 2021
 
 **Today's Progress**: Started and Made First Basic GUI in Kivy 
+
+### Day 67: Jan 8, 2021
+
+**Today's Progress**: Learned about Pivot Table in Excel
