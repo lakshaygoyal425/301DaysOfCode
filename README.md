@@ -274,3 +274,7 @@
 ### Day 67: Jan 8, 2021
 
 **Today's Progress**: Learned about Pivot Table in Excel
+
+### Day 67: Jan 8, 2021
+
+**Today's Progress**: Completed Kivy Basics and Started KivyMD
