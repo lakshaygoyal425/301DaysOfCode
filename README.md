@@ -278,3 +278,7 @@
 ### Day 68: Jan 9, 2021
 
 **Today's Progress**: Completed Kivy Basics and Started KivyMD
+
+### Day 69: Jan 10, 2021
+
+**Today's Progress**: Learned about Buttons, Themes, TextField, etc in KivyMD
