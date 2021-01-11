@@ -282,3 +282,7 @@
 ### Day 69: Jan 10, 2021
 
 **Today's Progress**: Learned about Buttons, Themes, TextField, etc in KivyMD
+
+### Day 70: Jan 11, 2021
+
+**Today's Progress**
