@@ -283,6 +283,10 @@
 
 **Today's Progress**: Learned about Buttons, Themes, TextField, etc in KivyMD
 
-### Day 71: Jan 11, 2021
+### Day 70: Jan 11, 2021
 
 **Today's Progress** Learned about Dialog Box & Lists in KivyMD
+
+### Day 71: Jan 12, 2021
+
+**Today's Progress**
