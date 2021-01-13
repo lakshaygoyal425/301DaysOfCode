@@ -289,4 +289,4 @@
 
 ### Day 71: Jan 12, 2021
 
-**Today's Progress**
+**Today's Progress** Learned about Navigation Tooolbar
