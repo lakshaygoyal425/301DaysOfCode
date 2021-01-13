@@ -289,4 +289,8 @@
 
 ### Day 71: Jan 12, 2021
 
-**Today's Progress** Learned about Navigation Tooolbar
+**Today's Progress** Learned about Tooolbar in KivyMD
+
+### Day 72: Jan 13, 2021
+
+**Today's Progress** Learned about Navigation Drawer
