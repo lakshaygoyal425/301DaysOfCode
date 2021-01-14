@@ -294,3 +294,7 @@
 ### Day 72: Jan 13, 2021
 
 **Today's Progress** Learned about Navigation Drawer
+
+### Day 73: Jan 14, 2021
+
+**Today's Progress** Started Making Sign Up Page 
