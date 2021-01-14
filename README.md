@@ -298,3 +298,7 @@
 ### Day 73: Jan 14, 2021
 
 **Today's Progress** Started Making Sign Up Page 
+
+### Day 74: Jan 15, 2021
+
+**Today's Progress** Completed Sign Up Page in KivyMD
