@@ -302,3 +302,7 @@
 ### Day 74: Jan 15, 2021
 
 **Today's Progress** Completed Sign Up Page in KivyMD
+
+### Day 75: Jan 16, 2021
+
+**Today's Progress** Started Working on Fitness App in Kivy
