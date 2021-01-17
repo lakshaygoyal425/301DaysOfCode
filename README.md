@@ -306,3 +306,7 @@
 ### Day 75: Jan 16, 2021
 
 **Today's Progress** Started Working on Fitness App in Kivy
+
+### Day 76: Jan 17, 2021
+
+**Today's Progress** Setting up Firebase for App
