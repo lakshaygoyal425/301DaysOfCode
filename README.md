@@ -310,3 +310,7 @@
 ### Day 76: Jan 17, 2021
 
 **Today's Progress** Setting up Firebase for App
+
+### Day 77: Jan 18, 2021
+
+**Today's Progress** Solved few questions of Array
