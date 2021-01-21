@@ -314,3 +314,19 @@
 ### Day 77: Jan 18, 2021
 
 **Today's Progress** Solved few questions of Array
+
+### Day 77: Jan 19, 2021
+
+**Today's Progress** Solved few questions of Array
+
+### Day 77: Jan 20, 2021
+
+**Today's Progress** Solved few questions of Array
+
+### Day 77: Jan 21, 2021
+
+**Today's Progress** KivyMD
+
+### Day 77: Jan 22, 2021
+
+**Today's Progress** Discussing Topics for Minor 2
