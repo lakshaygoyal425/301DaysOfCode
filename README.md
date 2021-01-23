@@ -327,9 +327,10 @@
 
 **Today's Progress** KivyMD
 
-### Day 77: Jan 22, 2021
+### Day 81: Jan 22, 2021
 
 **Today's Progress** Discussing Topics for Minor 2
-### Day 77: Jan 22, 2021
+
+### Day 82: Jan 22, 2021
 
 **Today's Progress** Discussing Topics for Minor 2
