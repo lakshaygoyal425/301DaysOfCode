@@ -333,7 +333,7 @@
 
 ### Day 82: Jan 22, 2021
 
-**Today's Progress** Fin
+**Today's Progress** Finalized Face Detection For Minor 2
 
 ### Day 82: Jan 22, 2021
 
