@@ -335,7 +335,7 @@
 
 **Today's Progress** Finalized Face Detection For Minor 2
 
-### Day 82: Jan 24, 2021
+### Day 83: Jan 24, 2021
 
 **Today's Progress** Discussing Topics for Minor 2
 
@@ -358,3 +358,7 @@
 ### Day 82: Jan 29, 2021
 
 **Today's Progress** Revised about various activation functions
+
+### Day 82: Jan 27, 2021
+
+**Today's Progress** Discussing Topics for Minor 2
