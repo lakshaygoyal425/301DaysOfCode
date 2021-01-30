@@ -355,7 +355,7 @@
 
 **Today's Progress** Start Revising Deep Learning Concepts
 
-### Day 82: Jan 29, 2021
+### Day 88: Jan 29, 2021
 
 **Today's Progress** Revised about various activation functions
 
