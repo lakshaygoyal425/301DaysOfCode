@@ -347,7 +347,7 @@
 
 **Today's Progress** Discussing Topics for Minor 2
 
-### Day 82: Jan 27, 2021
+### Day 86: Jan 27, 2021
 
 **Today's Progress** Discussing Topics for Minor 2
 
