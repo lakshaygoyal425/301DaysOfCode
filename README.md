@@ -359,6 +359,6 @@
 
 **Today's Progress** Revised about various activation functions
 
-### Day 82: Jan 27, 2021
+### Day 89: Jan 30, 2021
 
-**Today's Progress** Discussing Topics for Minor 2
+**Today's Progress** Revised about Losss function
