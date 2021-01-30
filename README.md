@@ -351,7 +351,7 @@
 
 **Today's Progress** Discussing Topics for Minor 2
 
-### Day 82: Jan 28, 2021
+### Day 87: Jan 28, 2021
 
 **Today's Progress** Start Revising Deep Learning Concepts
 
