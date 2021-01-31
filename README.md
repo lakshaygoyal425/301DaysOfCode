@@ -362,3 +362,7 @@
 ### Day 89: Jan 30, 2021
 
 **Today's Progress** Revised about Losss function
+
+### Day 90: Jan 31, 2021
+
+**Today's Progress** Revised some Data Structure Questions
