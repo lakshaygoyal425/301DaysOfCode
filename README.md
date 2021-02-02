@@ -361,8 +361,16 @@
 
 ### Day 89: Jan 30, 2021
 
-**Today's Progress** Revised about Losss function
+**Today's Progress** Revised about Loss function
 
 ### Day 90: Jan 31, 2021
 
 **Today's Progress** Revised some Data Structure Questions
+
+### Day 91: Feb 1, 2021
+
+**Today's Progress** Revised some Data Structure Questions
+
+### Day 92: Feb 2, 2021
+
+**Today's Progress** Solved Matrix Data Structure Questions
