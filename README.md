@@ -378,3 +378,7 @@
 ### Day 93: Feb 3, 2021
 
 **Today's Progress** Solved String Data Structure Questions
+
+### Day 94: Feb 4, 2021
+
+**Today's Progress** Started Micro subject
