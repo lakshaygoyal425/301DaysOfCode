@@ -386,3 +386,7 @@
 ### Day 95: Feb 5, 2021
 
 **Today's Progress** Solved String Data Structure Questions
+
+### Day 96: Feb 6, 2021
+
+**Today's Progress** Started Minor 2 Project
