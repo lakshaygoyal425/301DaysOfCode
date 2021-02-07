@@ -390,3 +390,7 @@
 ### Day 96: Feb 6, 2021
 
 **Today's Progress** Started Minor 2 Project
+
+### Day 97: Feb 7, 2021
+
+**Today's Progress** Learned about Decision Tree
