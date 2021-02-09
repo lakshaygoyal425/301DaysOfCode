@@ -395,6 +395,10 @@
 
 **Today's Progress** Learned about Decision Tree
 
-### Day 97: Feb 7, 2021
+### Day 98: Feb 8, 2021
 
 **Today's Progress** Studied Micro
+
+### Day 99: Feb 9, 2021
+
+**Today's Progress** Revising Linked List 
