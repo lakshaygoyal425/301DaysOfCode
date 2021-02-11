@@ -402,3 +402,11 @@
 ### Day 99: Feb 9, 2021
 
 **Today's Progress** Revising Linked List 
+
+### Day 100: Feb 10, 2021
+
+**Today's Progress** Revising Insertion and Deletion in Linked List 
+
+### Day 101: Feb 11, 2021
+
+**Today's Progress** Started javascript
