@@ -410,3 +410,7 @@
 ### Day 101: Feb 11, 2021
 
 **Today's Progress** Started javascript
+
+### Day 102: Feb 12, 2021
+
+**Today's Progress** Made first challenge in javascript
