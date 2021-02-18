@@ -414,3 +414,23 @@
 ### Day 102: Feb 12, 2021
 
 **Today's Progress** Made first challenge in javascript
+
+### Day 103: Feb 13, 2021
+
+**Today's Progress** Made second challenge in javascript
+
+### Day 104: Feb 14, 2021
+
+**Today's Progress** Made third challenge in javascript
+
+### Day 105: Feb 15, 2021
+
+**Today's Progress** Made fourth challenge in javascript
+
+### Day 106: Feb 16, 2021
+
+**Today's Progress** Made fifth challenge in javascript
+
+### Day 107: Feb 17, 2021
+
+**Today's Progress** Started Jquery
