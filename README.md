@@ -434,3 +434,23 @@
 ### Day 107: Feb 17, 2021
 
 **Today's Progress** Started Jquery
+
+### Day 107: Feb 18, 2021
+
+**Today's Progress** Completed Double Linked List
+
+### Day 107: Feb 19, 2021
+
+**Today's Progress** Started Circular Linked List
+
+### Day 107: Feb 20, 2021
+
+**Today's Progress** Started Circular Linked List
+
+### Day 107: Feb 21, 2021
+
+**Today's Progress** Solved few Python Questions
+
+### Day 107: Feb 17, 2021
+
+**Today's Progress** Working on Bank Statement Classification
