@@ -463,6 +463,6 @@
 
 **Today's Progress** Completed Bank Statement Project
 
-### Day 112: Feb 25, 2021
+### Day 115: Feb 25, 2021
 
-**Today's Progress** Working on Bank Statement Classification
+**Today's Progress** Revised various regression algorithms
