@@ -455,9 +455,9 @@
 
 **Today's Progress** Working on Bank Statement Classification
 
-### Day 112: Feb 23, 2021
+### Day 113: Feb 23, 2021
 
-**Today's Progress** Working on Bank Statement Classification
+**Today's Progress** Studies about Tesseract OCR
 
 ### Day 112: Feb 24, 2021
 
