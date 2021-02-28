@@ -470,3 +470,11 @@
 ### Day 116: Feb 26, 2021
 
 **Today's Progress** Done some Aptitude Questions
+
+### Day 117: Feb 27, 2021
+
+**Today's Progress** Done some Aptitude Questions
+
+### Day 118: Feb 27, 2021
+
+**Today's Progress** Done some Aptitude Questions
