@@ -466,3 +466,7 @@
 ### Day 115: Feb 25, 2021
 
 **Today's Progress** Revised various regression algorithms
+
+### Day 116: Feb 26, 2021
+
+**Today's Progress** Done some Aptitude Questions
