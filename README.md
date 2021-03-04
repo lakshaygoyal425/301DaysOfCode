@@ -478,3 +478,7 @@
 ### Day 118: Feb 28, 2021
 
 **Today's Progress** Started Binary Tree
+
+### Day 119: March 1, 2021
+
+**Today's Progress** Solved Some Questions of Binary Tree
