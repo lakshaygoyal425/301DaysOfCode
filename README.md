@@ -498,3 +498,7 @@
 ### Day 123: March 5, 2021
 
 **Today's Progress** Studied about Tesseract OCR
+
+### Day 124: March 6, 2021
+
+**Today's Progress** Studied about Tabula
