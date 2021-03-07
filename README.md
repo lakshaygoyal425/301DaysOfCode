@@ -490,3 +490,7 @@
 ### Day 121: March 3, 2021
 
 **Today's Progress** Solved Some Questions of Stack
+
+### Day 122: March 4, 2021
+
+**Today's Progress** Solved Some Questions of Stack
