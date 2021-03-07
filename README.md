@@ -486,3 +486,7 @@
 ### Day 120: March 2, 2021
 
 **Today's Progress** Solved Some Questions of Binary Tree
+
+### Day 121: March 3, 2021
+
+**Today's Progress** Solved Some Questions of Stack
