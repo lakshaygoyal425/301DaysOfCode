@@ -457,7 +457,7 @@
 
 ### Day 113: Feb 23, 2021
 
-**Today's Progress** Studies about Tesseract OCR
+**Today's Progress** Studied about Tesseract OCR
 
 ### Day 114: Feb 24, 2021
 
@@ -494,3 +494,7 @@
 ### Day 122: March 4, 2021
 
 **Today's Progress** Solved Some Questions of Stack
+
+### Day 123: March 5, 2021
+
+**Today's Progress** Studied about Tesseract OCR
