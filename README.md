@@ -503,9 +503,9 @@
 
 **Today's Progress** Studied about Tabula
 
-### Day 124: March 7, 2021
+### Day 125: March 7, 2021
 
-**Today's Progress** Studied about Tabula
+**Today's Progress** Studied about Camelot
 
 ### Day 124: March 8, 2021
 
