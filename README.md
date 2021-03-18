@@ -507,25 +507,25 @@
 
 **Today's Progress** Studied about Camelot
 
-### Day 124: March 8, 2021
+### Day 126: March 8, 2021
 
-**Today's Progress** Studied about Tabula
+**Today's Progress** Started Working on Header Section of Bank Statement
 
-### Day 124: March 9, 2021
+### Day 127: March 9, 2021
 
-**Today's Progress** Studied about Tabula
+**Today's Progress**  Working on Header Section of Bank Statement
 
-### Day 124: March 10, 2021
+### Day 128: March 10, 2021
 
-**Today's Progress** Studied about Tabula
+**Today's Progress**  Working on Header Section of Bank Statement
 
-### Day 124: March 11, 2021
+### Day 129: March 11, 2021
 
-**Today's Progress** Studied about Tabula
+**Today's Progress**  Working on Header Section of Bank Statement
 
-### Day 124: March 12, 2021
+### Day 130: March 12, 2021
 
-**Today's Progress** Studied about Tabula
+**Today's Progress**  Completed Header Section of Bank Statement
 
 ### Day 124: March 13, 2021
 
