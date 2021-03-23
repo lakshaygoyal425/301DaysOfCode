@@ -545,7 +545,7 @@
 
 ### Day 135: March 17, 2021
 
-**Today's Progress** Studied about Tabula
+**Today's Progress** Parsed over 30 banks statements
 
 ### Day 136: March 18, 2021
 
