@@ -527,30 +527,30 @@
 
 **Today's Progress**  Completed Header Section of Bank Statement
 
-### Day 124: March 13, 2021
+### Day 131: March 13, 2021
+
+**Today's Progress** Working on Table Section of Bank Statement
+
+### Day 132: March 14, 2021
 
 **Today's Progress** Studied about Tabula
 
-### Day 124: March 14, 2021
+### Day 133: March 15, 2021
 
 **Today's Progress** Studied about Tabula
 
-### Day 124: March 15, 2021
+### Day 134: March 16, 2021
 
 **Today's Progress** Studied about Tabula
 
-### Day 124: March 16, 2021
+### Day 135: March 17, 2021
 
 **Today's Progress** Studied about Tabula
 
-### Day 124: March 17, 2021
+### Day 136: March 18, 2021
 
 **Today's Progress** Studied about Tabula
 
-### Day 124: March 18, 2021
-
-**Today's Progress** Studied about Tabula
-
-### Day 124: March 19, 2021
+### Day 137: March 19, 2021
 
 **Today's Progress** Studied about Tabula
