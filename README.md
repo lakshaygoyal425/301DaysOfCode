@@ -549,8 +549,8 @@
 
 ### Day 136: March 18, 2021
 
-**Today's Progress** Studied about Tabula
+**Today's Progress** Working on Table Section of Bank Statement
 
 ### Day 137: March 19, 2021
 
-**Today's Progress** Studied about Tabula
+**Today's Progress** Working on Table Section of Bank Statement
