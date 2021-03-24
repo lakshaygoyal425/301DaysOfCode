@@ -554,3 +554,15 @@
 ### Day 137: March 19, 2021
 
 **Today's Progress** Working on Table Section of Bank Statement
+
+### Day 138: March 20, 2021
+
+**Today's Progress** Parsed over 100 banks statements
+
+### Day 139: March 21, 2021
+
+**Today's Progress** Parsed over 150 banks statements
+
+### Day 140: March 22, 2021
+
+**Today's Progress** CHecked all the banks statements
