@@ -565,4 +565,8 @@
 
 ### Day 140: March 22, 2021
 
-**Today's Progress** CHecked all the banks statements
+**Today's Progress** Checked all the banks statements
+
+### Day 141: March 23, 2021
+
+**Today's Progress** Started working on Bank Logo Detection
