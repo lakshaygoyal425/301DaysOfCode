@@ -574,3 +574,7 @@
 ### Day 142: March 24, 2021
 
 **Today's Progress** Dataset created for Logo Detection
+
+### Day 143: March 25, 2021
+
+**Today's Progress** Model created
