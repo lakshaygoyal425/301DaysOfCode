@@ -570,3 +570,7 @@
 ### Day 141: March 23, 2021
 
 **Today's Progress** Started working on Bank Logo Detection
+
+### Day 142: March 24, 2021
+
+**Today's Progress** Dataset created for Logo Detection
