@@ -578,3 +578,7 @@
 ### Day 143: March 25, 2021
 
 **Today's Progress** Model created
+
+### Day 144: March 26, 2021
+
+**Today's Progress** Solved few question in leetcode
