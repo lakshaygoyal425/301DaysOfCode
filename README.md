@@ -594,3 +594,7 @@
 ### Day 147: March 29, 2021
 
 **Today's Progress** Solved few question in leetcode
+
+### Day 148: March 30, 2021
+
+**Today's Progress** Working on Table Parsing
