@@ -598,3 +598,7 @@
 ### Day 148: March 30, 2021
 
 **Today's Progress** Working on Table Parsing
+
+### Day 149: March 31, 2021
+
+**Today's Progress** Working on Table Parsing
