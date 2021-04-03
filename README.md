@@ -606,3 +606,7 @@
 ### Day 150: April 1, 2021
 
 **Today's Progress** Working on Dataframe
+
+### Day 151: April 2, 2021
+
+**Today's Progress** Working on Dataframe
