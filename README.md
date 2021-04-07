@@ -610,3 +610,15 @@
 ### Day 151: April 2, 2021
 
 **Today's Progress** Working on Dataframe
+
+### Day 152: April 3, 2021
+
+**Today's Progress** Started DSA 
+
+### Day 151: April 2, 2021
+
+**Today's Progress** Working on Dataframe
+
+### Day 151: April 2, 2021
+
+**Today's Progress** Working on Dataframe
