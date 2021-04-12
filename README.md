@@ -627,7 +627,11 @@
 
 **Today's Progress** Working in Camelot 
 
-### Day 156: April 47, 2021
+### Day 156: April 7, 2021
+
+**Today's Progress** Working in Tabula
+
+### Day 157: April 8, 2021
 
 **Today's Progress** Working in Tabula
 
