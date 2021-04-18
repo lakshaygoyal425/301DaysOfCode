@@ -646,3 +646,11 @@
 ### Day 160: April 11, 2021
 
 **Today's Progress** Working on reamaining statements to be parsed
+
+### Day 161: April 12, 2021
+
+**Today's Progress** Working on reamaining statements to be parsed
+
+### Day 162: April 13, 2021
+
+**Today's Progress** Working on Minor 2
