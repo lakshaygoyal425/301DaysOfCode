@@ -654,3 +654,7 @@
 ### Day 162: April 13, 2021
 
 **Today's Progress** Working on Minor 2
+
+### Day 163: April 14, 2021
+
+**Today's Progress** Working on Image Processing of Minor 2
