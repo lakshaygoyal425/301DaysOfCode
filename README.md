@@ -659,6 +659,10 @@
 
 **Today's Progress** Working on Image Processing of Minor 2
 
-### Day 164: April 14, 2021
+### Day 164: April 15, 2021
 
 **Today's Progress** Working on Image Processing of Minor 2
+
+### Day 165: April 16, 2021
+
+**Today's Progress** Working on Model Prediction of Minor 2
