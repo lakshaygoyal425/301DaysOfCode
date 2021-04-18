@@ -666,3 +666,7 @@
 ### Day 165: April 16, 2021
 
 **Today's Progress** Working on Model Prediction of Minor 2
+
+### Day 166: April 17, 2021
+
+**Today's Progress** Set up Database of Minor 2
