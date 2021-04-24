@@ -681,7 +681,7 @@
 
 ### Day 169: April 20, 2021
 
-**Today's Progress** Set up Database of Minor 2
+**Today's Progress** Imported Ftek Table on Database
 
 ### Day 170: April 21, 2021
 
