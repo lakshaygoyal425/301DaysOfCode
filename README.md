@@ -677,7 +677,7 @@
 
 ### Day 168: April 19, 2021
 
-**Today's Progress** Set up Database of Minor 2
+**Today's Progress** Setting up database on Xampp
 
 ### Day 169: April 20, 2021
 
