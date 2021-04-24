@@ -670,3 +670,31 @@
 ### Day 166: April 17, 2021
 
 **Today's Progress** Set up Database of Minor 2
+
+### Day 167: April 18, 2021
+
+**Today's Progress** Completed Minor 2
+
+### Day 168: April 19, 2021
+
+**Today's Progress** Set up Database of Minor 2
+
+### Day 169: April 20, 2021
+
+**Today's Progress** Set up Database of Minor 2
+
+### Day 170: April 21, 2021
+
+**Today's Progress** Set up Database of Minor 2
+
+### Day 171: April 22, 2021
+
+**Today's Progress** Set up Database of Minor 2
+
+### Day 172: April 23, 2021
+
+**Today's Progress** Set up Database of Minor 2
+
+### Day 173: April 24, 2021
+
+**Today's Progress** Set up Database of Minor 2
