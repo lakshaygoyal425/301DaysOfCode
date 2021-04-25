@@ -698,3 +698,7 @@
 ### Day 173: April 24, 2021
 
 **Today's Progress** Revised Bubble and Selection Sort
+
+### Day 174: April 25, 2021
+
+**Today's Progress** Revised Insertion Sort
