@@ -702,3 +702,7 @@
 ### Day 174: April 25, 2021
 
 **Today's Progress** Revised Insertion Sort
+
+### Day 175: April 26, 2021
+
+**Today's Progress** Revised Quick Sort
