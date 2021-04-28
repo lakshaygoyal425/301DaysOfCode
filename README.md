@@ -706,3 +706,7 @@
 ### Day 175: April 26, 2021
 
 **Today's Progress** Revised Quick Sort
+
+### Day 176: April 27, 2021
+
+**Today's Progress** Start Matrix DS Questions
