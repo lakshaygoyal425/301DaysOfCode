@@ -730,3 +730,7 @@
 ### Day 181: May 2, 2021
 
 **Today's Progress** Revised about Linked List
+
+### Day 182: May 3, 2021
+
+**Today's Progress** Revised about Linked List
