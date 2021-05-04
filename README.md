@@ -726,3 +726,7 @@
 ### Day 180: May 1, 2021
 
 **Today's Progress** Solved String DS Questions
+
+### Day 181: May 2, 2021
+
+**Today's Progress** Revised about Linked List
