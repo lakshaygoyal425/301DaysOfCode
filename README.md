@@ -742,3 +742,7 @@
 ### Day 184: May 5, 2021
 
 **Today's Progress** Revised about Double Linked List
+
+### Day 185: May 6, 2021
+
+**Today's Progress** Solved Double Linked List DS Questions
