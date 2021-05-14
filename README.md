@@ -758,3 +758,7 @@
 ### Day 188: May 9, 2021
 
 **Today's Progress** Solved Circular Linked List DS Questions
+
+### Day 189: May 10, 2021
+
+**Today's Progress** Working in Tabula-py for Bank Statement Parsing
