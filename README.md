@@ -766,3 +766,11 @@
 ### Day 190: May 11, 2021
 
 **Today's Progress** Working in Tabula-py for Bank Statement Parsing
+
+### Day 191: May 12, 2021
+
+**Today's Progress** Working in Tabula-py for Bank Statement Parsing
+
+### Day 192: May 13, 2021
+
+**Today's Progress** Working in Tabula-py for Bank Statement Parsing
