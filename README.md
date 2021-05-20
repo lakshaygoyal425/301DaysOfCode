@@ -774,3 +774,7 @@
 ### Day 192: May 13, 2021
 
 **Today's Progress** Working in Tabula-py for Bank Statement Parsing
+
+### Day 193: May 14, 2021
+
+**Today's Progress** Working on JSON Format
