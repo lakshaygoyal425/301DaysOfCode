@@ -783,6 +783,10 @@
 
 **Today's Progress** Working on JSON Format
 
-### Day 195: May 14, 2021
+### Day 195: May 16, 2021
+
+**Today's Progress** Working on Black Fungus Paper
+
+### Day 196: May 17, 2021
 
 **Today's Progress** Working on Black Fungus Paper
