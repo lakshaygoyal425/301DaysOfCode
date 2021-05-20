@@ -790,3 +790,7 @@
 ### Day 196: May 17, 2021
 
 **Today's Progress** Working on Black Fungus Paper
+
+### Day 197: May 18, 2021
+
+**Today's Progress** Made all figures of Black Fungus Paper
