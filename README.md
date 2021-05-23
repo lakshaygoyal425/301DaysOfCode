@@ -807,7 +807,7 @@
 
 **Today's Progress** Start Writing Blog on Lexicons of Data Science
 
-### Day 198: May 19, 2021
+### Day 201: May 22, 2021
 
 **Today's Progress** Start Writing Blog on Lexicons of Data Science
 
