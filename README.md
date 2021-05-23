@@ -803,7 +803,7 @@
 
 **Today's Progress** Commpleted Black Fungus Paper
 
-### Day 198: May 19, 2021
+### Day 200: May 21, 2021
 
 **Today's Progress** Start Writing Blog on Lexicons of Data Science
 
