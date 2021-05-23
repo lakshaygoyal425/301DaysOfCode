@@ -794,3 +794,27 @@
 ### Day 197: May 18, 2021
 
 **Today's Progress** Made all figures of Black Fungus Paper
+
+### Day 198: May 19, 2021
+
+**Today's Progress** Written Introduction about Black Fungus Paper
+
+### Day 198: May 19, 2021
+
+**Today's Progress** Commpleted Black Fungus Paper
+
+### Day 198: May 19, 2021
+
+**Today's Progress** Start Writing Blog on Lexicons of Data Science
+
+### Day 198: May 19, 2021
+
+**Today's Progress** Start Writing Blog on Lexicons of Data Science
+
+### Day 198: May 19, 2021
+
+**Today's Progress** Start Writing Blog on Lexicons of Data Science
+
+### Day 198: May 19, 2021
+
+**Today's Progress** Published Blog on Lexicons of Data Science on Medium
