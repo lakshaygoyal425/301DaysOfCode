@@ -818,3 +818,11 @@
 ### Day 203: May 24, 2021
 
 **Today's Progress** Published Blog on Lexicons of Data Science on Medium
+
+### Day 204: May 25, 2021
+
+**Today's Progress** Working on Covid-19 Paper
+
+### Day 204: May 25, 2021
+
+**Today's Progress** Working on Covid-19 Paper
