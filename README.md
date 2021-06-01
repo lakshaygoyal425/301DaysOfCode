@@ -833,16 +833,16 @@
 
 ### Day 205: May 28, 2021
 
-**Today's Progress** Working on Covid-19 Paper
+**Today's Progress** Done Assignment-1 of FOXMULA
 
 ### Day 205: May 29, 2021
 
-**Today's Progress** Working on Covid-19 Paper
+**Today's Progress** Studied about Hashset, ArrayList
 
 ### Day 205: May 30, 2021
 
-**Today's Progress** Working on Covid-19 Paper
+**Today's Progress** Studied about LinkedHashset
 
 ### Day 205: May 31, 2021
 
-**Today's Progress** Working on Covid-19 Paper
+**Today's Progress** Done Assignment-2 of FOXMULA
