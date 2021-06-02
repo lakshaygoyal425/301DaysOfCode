@@ -846,3 +846,11 @@
 ### Day 210: May 31, 2021
 
 **Today's Progress** Done Assignment-2 of FOXMULA
+
+### Day 211: June 1, 2021
+
+**Today's Progress** Studied about HashMap, LinkedHashMap
+
+### Day 21: May 31, 2021
+
+**Today's Progress** Done Assignment-2 of FOXMULA
