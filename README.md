@@ -861,4 +861,4 @@
 
 ### Day 214: June 4, 2021
 
-**Today's Progress** Studied about Graph DS
+**Today's Progress** Studied about Dijkastra Algorithm
