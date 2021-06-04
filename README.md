@@ -854,3 +854,11 @@
 ### Day 212: June 2, 2021
 
 **Today's Progress** Studied about Graph DS
+
+### Day 213: June 3, 2021
+
+**Today's Progress** Studied about Graph DS
+
+### Day 214: June 4, 2021
+
+**Today's Progress** Studied about Graph DS
