@@ -862,3 +862,7 @@
 ### Day 214: June 4, 2021
 
 **Today's Progress** Studied about Dijkastra Algorithm
+
+### Day 215: June 5, 2021
+
+**Today's Progress** Getting Started with Google Guice
