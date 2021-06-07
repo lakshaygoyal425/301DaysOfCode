@@ -866,3 +866,11 @@
 ### Day 215: June 5, 2021
 
 **Today's Progress** Getting Started with Google Guice
+
+### Day 216: June 6, 2021
+
+**Today's Progress** Getting Started with Google Guice
+
+### Day 217: June 7, 2021
+
+**Today's Progress** Getting Started with Google Guice
