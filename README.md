@@ -869,8 +869,8 @@
 
 ### Day 216: June 6, 2021
 
-**Today's Progress** Getting Started with Google Guice
+**Today's Progress** Working on Student Class with Postman
 
 ### Day 217: June 7, 2021
 
-**Today's Progress** Getting Started with Google Guice
+**Today's Progress** Working on Employee Class with Postman
