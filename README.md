@@ -881,7 +881,7 @@
 
 ### Day 219: June 9, 2021
 
-**Today's Progress** Working on Employee Class with Postman
+**Today's Progress** Solved Easy Question [1-50] on Leetcode
 
 ### Day 220: June 10, 2021
 
