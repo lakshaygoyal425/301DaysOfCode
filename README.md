@@ -874,3 +874,27 @@
 ### Day 217: June 7, 2021
 
 **Today's Progress** Working on Employee Class with Postman
+
+### Day 218: June 8, 2021
+
+**Today's Progress** Started Leetcode
+
+### Day 219: June 9, 2021
+
+**Today's Progress** Working on Employee Class with Postman
+
+### Day 220: June 10, 2021
+
+**Today's Progress** Working on Employee Class with Postman
+
+### Day 221: June 11, 2021
+
+**Today's Progress** Working on Employee Class with Postman
+
+### Day 222: June 12, 2021
+
+**Today's Progress** Working on Employee Class with Postman
+
+### Day 223: June 13, 2021
+
+**Today's Progress** Working on Employee Class with Postman
