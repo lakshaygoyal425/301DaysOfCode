@@ -889,12 +889,12 @@
 
 ### Day 221: June 11, 2021
 
-**Today's Progress** Working on Employee Class with Postman
+**Today's Progress** Solved Some Questions
 
 ### Day 222: June 12, 2021
 
-**Today's Progress** Working on Employee Class with Postman
+**Today's Progress** Solved Some Questions
 
 ### Day 223: June 13, 2021
 
-**Today's Progress** Working on Employee Class with Postman
+**Today's Progress** Studied about Aptitude -Percentage
