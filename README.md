@@ -917,8 +917,8 @@
 
 ### Day 228: June 18, 2021
 
-**Today's Progress** Studied about Aptitude -Percentage
+**Today's Progress** Studied about Aptitude -Ratio & Proportion
 
 ### Day 229: June 19, 2021
 
-**Today's Progress** Studied about Aptitude -Percentage
+**Today's Progress** Studied about Aptitude -Ratio & Proportion
