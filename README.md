@@ -905,7 +905,7 @@
 
 ### Day 225: June 15, 2021
 
-**Today's Progress** Studied about Aptitude -Percentage
+**Today's Progress** Studied about Aptitude -Profit Loss
 
 ### Day 226: June 16, 2021
 
