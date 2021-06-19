@@ -909,11 +909,11 @@
 
 ### Day 226: June 16, 2021
 
-**Today's Progress** Studied about Aptitude -Percentage
+**Today's Progress** Studied about Aptitude -Profit Loss
 
 ### Day 227: June 17, 2021
 
-**Today's Progress** Studied about Aptitude -Percentage
+**Today's Progress** Studied about Aptitude -Direction & Distance
 
 ### Day 228: June 18, 2021
 
