@@ -922,3 +922,11 @@
 ### Day 229: June 19, 2021
 
 **Today's Progress** Studied about Aptitude -Ratio & Proportion
+
+### Day 230: June 20, 2021
+
+**Today's Progress** Studied about Aptitude -Ratio & Proportion
+
+### Day 231: June 21, 2021
+
+**Today's Progress** Studied about Aptitude -Ratio & Proportion
