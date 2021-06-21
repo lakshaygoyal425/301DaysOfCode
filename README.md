@@ -925,8 +925,8 @@
 
 ### Day 230: June 20, 2021
 
-**Today's Progress** Studied about Aptitude -Ratio & Proportion
+**Today's Progress** Studied about Aptitude -Simple Interest
 
 ### Day 231: June 21, 2021
 
-**Today's Progress** Studied about Aptitude -Ratio & Proportion
+**Today's Progress** Studied about Aptitude -Compound Interest
