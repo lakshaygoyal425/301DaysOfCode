@@ -930,3 +930,15 @@
 ### Day 231: June 21, 2021
 
 **Today's Progress** Studied about Aptitude -Compound Interest
+
+### Day 232: June 22, 2021
+
+**Today's Progress** Studied about Aptitude -Compound Interest
+
+### Day 233: June 23, 2021
+
+**Today's Progress** Studied about Aptitude -Compound Interest
+
+### Day 234: June 24, 2021
+
+**Today's Progress** Studied about Aptitude -Compound Interest
