@@ -942,3 +942,7 @@
 ### Day 234: June 24, 2021
 
 **Today's Progress** Studied about Aptitude -Time and Work
+
+### Day 235: June 25, 2021
+
+**Today's Progress** Solved some questions of Linked List
