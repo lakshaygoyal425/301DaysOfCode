@@ -953,12 +953,12 @@
 
 ### Day 237: June 27, 2021
 
-**Today's Progress** Solved some questions of Linked List
+**Today's Progress** Solved some questions of Stack
 
 ### Day 238: June 28, 2021
 
-**Today's Progress** Solved some questions of Linked List
+**Today's Progress** Solved some questions of Stack
 
 ### Day 239: June 29, 2021
 
-**Today's Progress** Solved some questions of Linked List
+**Today's Progress** Solved some questions of Queue
