@@ -973,7 +973,7 @@
 
 ### Day 242: July 2, 2021
 
-**Today's Progress** Solved some questions of Queue
+**Today's Progress** Studied basics of Django
 
 ### Day 243: July 3, 2021
 
