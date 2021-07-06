@@ -962,3 +962,31 @@
 ### Day 239: June 29, 2021
 
 **Today's Progress** Solved some questions of Queue
+
+### Day 240: June 30, 2021
+
+**Today's Progress** Studied about Deque
+
+### Day 241: July 1, 2021
+
+**Today's Progress** Started Django
+
+### Day 242: July 2, 2021
+
+**Today's Progress** Solved some questions of Queue
+
+### Day 243: July 3, 2021
+
+**Today's Progress** Solved some questions of Queue
+
+### Day 244: July 4, 2021
+
+**Today's Progress** Solved some questions of Queue
+
+### Day 245: July 5, 2021
+
+**Today's Progress** Solved some questions of Queue
+
+### Day 246: July 6, 2021
+
+**Today's Progress** Solved some questions of Queue
