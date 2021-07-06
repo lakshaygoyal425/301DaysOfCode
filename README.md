@@ -985,8 +985,8 @@
 
 ### Day 245: July 5, 2021
 
-**Today's Progress** Solved some questions of Queue
+**Today's Progress** Working on E-Commerce Django
 
 ### Day 246: July 6, 2021
 
-**Today's Progress** Solved some questions of Queue
+**Today's Progress** Data Structure
