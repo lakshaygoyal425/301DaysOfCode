@@ -981,7 +981,7 @@
 
 ### Day 244: July 4, 2021
 
-**Today's Progress** Solved some questions of Queue
+**Today's Progress** Started making E-Commerce in Django
 
 ### Day 245: July 5, 2021
 
