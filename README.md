@@ -990,3 +990,28 @@
 ### Day 246: July 6, 2021
 
 **Today's Progress** Data Structure
+
+### Day 247: July 7, 2021
+
+**Today's Progress** Started New Intern on OCR
+
+### Day 248: July 8, 2021
+
+**Today's Progress** Data Structure
+
+### Day 249: July 9, 2021
+
+**Today's Progress** Data Structure
+
+### Day 250: July 10, 2021
+
+**Today's Progress** Data Structure
+
+### Day 251: July 11, 2021
+
+**Today's Progress** Data Structure
+
+### Day 252: July 12, 2021
+
+**Today's Progress** Data Structure
+
