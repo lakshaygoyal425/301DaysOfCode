@@ -1005,13 +1005,13 @@
 
 ### Day 250: July 10, 2021
 
-**Today's Progress** Data Structure
+**Today's Progress** Working on OCR Project (Format-4)
 
 ### Day 251: July 11, 2021
 
-**Today's Progress** Data Structure
+**Today's Progress** Working on OCR Project (Format-4)
 
 ### Day 252: July 12, 2021
 
-**Today's Progress** Data Structure
+**Today's Progress** Completed (Format-4)
 
