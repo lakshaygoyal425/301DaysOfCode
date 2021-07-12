@@ -1001,7 +1001,7 @@
 
 ### Day 249: July 9, 2021
 
-**Today's Progress** Data Structure
+**Today's Progress** Start Working on OCR Project (Format-4)
 
 ### Day 250: July 10, 2021
 
