@@ -997,7 +997,7 @@
 
 ### Day 248: July 8, 2021
 
-**Today's Progress** Data Structure
+**Today's Progress** Understanding the code of OCR
 
 ### Day 249: July 9, 2021
 
