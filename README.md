@@ -1029,36 +1029,36 @@
 
 ### Day 256: July 16, 2021
 
-**Today's Progress** Completed (Format-4)
+**Today's Progress** Started Linear Algebra 
 
 ### Day 257: July 17, 2021
 
-**Today's Progress** Completed (Format-4)
+**Today's Progress** Studying about Matrics, Rank
 
 ### Day 258: July 18, 2021
 
-**Today's Progress** Completed (Format-4)
+**Today's Progress** Studied about Non-Homogenous Eqns
 
 ### Day 259: July 19, 2021
 
-**Today's Progress** Completed (Format-4)
+**Today's Progress** Studied about Homogenous Eqns
 
 ### Day 260: July 20, 2021
 
-**Today's Progress** Completed (Format-4)
+**Today's Progress** Solved Questions
 
 ### Day 261: July 21, 2021
 
-**Today's Progress** Completed (Format-4)
+**Today's Progress** Revising Linear Algebra
 
 ### Day 262: July 22, 2021
 
-**Today's Progress** Completed (Format-4)
+**Today's Progress** Completed Linear Algebra
 
 ### Day 263: July 23, 2021
 
-**Today's Progress** Completed (Format-4)
+**Today's Progress** Started DBMS
 
 ### Day 264: July 24, 2021
 
-**Today's Progress** Completed (Format-4)
+**Today's Progress** Revised about keys in DBMS
