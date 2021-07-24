@@ -1017,15 +1017,15 @@
 
 ### Day 253: July 13, 2021
 
-**Today's Progress** Completed (Format-4)
+**Today's Progress** Started Binary Search Tree
 
 ### Day 254: July 14, 2021
 
-**Today's Progress** Completed (Format-4)
+**Today's Progress** Solved Questions of BST
 
 ### Day 255: July 15, 2021
 
-**Today's Progress** Completed (Format-4)
+**Today's Progress** Solved Questions of BST
 
 ### Day 256: July 16, 2021
 
