@@ -1085,7 +1085,7 @@
 
 ### Day 270: July 30, 2021
 
-**Today's Progress** Revised about keys in DBMS
+**Today's Progress** Revised about joins in DBMS
 
 ### Day 271: July 31, 2021
 
