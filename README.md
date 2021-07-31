@@ -1081,7 +1081,7 @@
 
 ### Day 269: July 29, 2021
 
-**Today's Progress** Revised about keys in DBMS
+**Today's Progress** Revised about relational algebra in DBMS
 
 ### Day 270: July 30, 2021
 
