@@ -1062,3 +1062,31 @@
 ### Day 264: July 24, 2021
 
 **Today's Progress** Revised about keys in DBMS
+
+### Day 265: July 25, 2021
+
+**Today's Progress** Revised about keys in DBMS
+
+### Day 266: July 26, 2021
+
+**Today's Progress** Revised about normalizations in DBMS
+
+### Day 267: July 27, 2021
+
+**Today's Progress** Revised about normalizations in DBMS
+
+### Day 268: July 28, 2021
+
+**Today's Progress** Revised about functional dependency in DBMS
+
+### Day 269: July 29, 2021
+
+**Today's Progress** Revised about keys in DBMS
+
+### Day 270: July 30, 2021
+
+**Today's Progress** Revised about keys in DBMS
+
+### Day 271: July 31, 2021
+
+**Today's Progress** Revised about keys in DBMS
