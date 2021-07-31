@@ -1089,4 +1089,4 @@
 
 ### Day 271: July 31, 2021
 
-**Today's Progress** Revised about keys in DBMS
+**Today's Progress** Revised about SQL in DBMS
