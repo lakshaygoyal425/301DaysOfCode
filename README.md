@@ -1090,3 +1090,20 @@
 ### Day 271: July 31, 2021
 
 **Today's Progress** Revised about SQL in DBMS
+
+### Day 271: August 1, 2021
+
+**Today's Progress** Preparing for Aptitude Round
+
+### Day 272: August 2, 2021
+
+**Today's Progress** Preparing for HR Interview
+
+### Day 273: August 3, 2021
+
+**Today's Progress** Preparing for HR Interview
+
+### Day 274: August 4, 2021
+
+**Today's Progress** 
+
