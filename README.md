@@ -1105,5 +1105,30 @@
 
 ### Day 274: August 4, 2021
 
-**Today's Progress** 
+**Today's Progress** Preparing for Technical Interview
+
+### Day 275: August 5, 2021
+
+**Today's Progress** Preparing for Technical Interview
+
+### Day 276: August 6, 2021
+
+**Today's Progress** Preparing for Technical Interview
+
+### Day 277: August 7, 2021
+
+**Today's Progress** Preparing for Technical Interview
+
+### Day 278: August 8, 2021
+
+**Today's Progress** Preparing for Technical Interview
+
+### Day 279: August 9, 2021
+
+**Today's Progress** Given Technical Interview in Yamaha Motor
+
+### Day 280: August 10, 2021
+
+**Today's Progress** Preparing for Technical Interview
+
 
